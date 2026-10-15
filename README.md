@@ -115,7 +115,7 @@ I'm focused on crafting scalable **Web Applications** and exploring **Artificial
 <!-- Connect with me -->
 <div align="center">
   <h2>🤝 Connect With Me</h2>
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/yeison-isaza-a84bb7406/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="48" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -132,7 +132,7 @@ I'm focused on crafting scalable **Web Applications** and exploring **Artificial
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jasonisaza&show_icons=true&include_all_commits=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YeisonIsaza&show_icons=true&include_all_commits=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
   </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonisaza&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
